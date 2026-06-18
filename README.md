@@ -1,5 +1,8 @@
-## Hi there 👋
+# Ayeni Stanley
 
+Hello, I'm a software engineer who is still on a journey in becoming a professional in the industry.
+
+I'm currently learning Front-End development: HTML, CSS, JS.
 <!--
 **Dyxcy-01/Dyxcy-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
